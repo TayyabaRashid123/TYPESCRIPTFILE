@@ -1,2 +1,3 @@
 var friendsName = ["TAYYABA", "TOOBA", "HAMZA", "HAMMAD"];
-console.log(friendsName);
+
+friendsName.forEach (friendsName =>console.log(friendsName));
